@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-
 """ 
 Python function that lists documents
 """
